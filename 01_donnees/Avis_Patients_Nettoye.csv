@@ -1,0 +1,1013 @@
+id;note;commentaire
+1;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible.
+2;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous.
+3;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule.
+4;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information.
+5;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide.
+6;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente.
+7;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe.
+8;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel.
+9;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant.
+10;2;Le médecin était très froid et distant. Manque total d'empathie du personnel.
+11;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable.
+12;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa.
+13;1;La propreté des locaux laisse à désirer, poussière partout et douche froide.
+14;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital.
+15;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité.
+16;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée.
+17;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689]
+18;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755]
+19;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709]
+20;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281]
+21;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279]
+22;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551]
+23;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920]
+24;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949]
+25;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983]
+26;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068]
+27;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392]
+28;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755]
+29;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599]
+30;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732]
+31;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865]
+32;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129]
+33;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. - Ref: 9052
+34;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. - Ref: 4871
+35;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. - Ref: 7199
+36;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. - Ref: 1382
+37;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. - Ref: 5315
+38;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. - Ref: 2427
+39;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. - Ref: 6193
+40;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. - Ref: 3685
+41;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. - Ref: 9846
+42;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. - Ref: 8176
+43;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. - Ref: 1341
+44;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. - Ref: 2180
+45;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. - Ref: 6875
+46;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. - Ref: 7836
+47;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. - Ref: 8554
+48;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. - Ref: 9266
+49;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] - Ref: 666
+50;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] - Ref: 5534
+51;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] - Ref: 5671
+52;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] - Ref: 1754
+53;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] - Ref: 1759
+54;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] - Ref: 3532
+55;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] - Ref: 2385
+56;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] - Ref: 1329
+57;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] - Ref: 9489
+58;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] - Ref: 3461
+59;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] - Ref: 8839
+60;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] - Ref: 3813
+61;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] - Ref: 2546
+62;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] - Ref: 1291
+63;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] - Ref: 8817
+64;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] - Ref: 213
+65;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible.
+66;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous.
+67;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule.
+68;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information.
+69;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide.
+70;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente.
+71;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe.
+72;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel.
+73;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant.
+74;2;Le médecin était très froid et distant. Manque total d'empathie du personnel.
+75;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable.
+76;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa.
+77;1;La propreté des locaux laisse à désirer, poussière partout et douche froide.
+78;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital.
+79;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité.
+80;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée.
+81;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689]
+82;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755]
+83;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709]
+84;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281]
+85;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279]
+86;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551]
+87;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920]
+88;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949]
+89;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983]
+90;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068]
+91;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392]
+92;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755]
+93;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599]
+94;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732]
+95;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865]
+96;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129]
+97;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. - Ref: 9052
+98;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. - Ref: 4871
+99;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. - Ref: 7199
+100;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. - Ref: 1382
+101;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. - Ref: 5315
+102;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. - Ref: 2427
+103;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. - Ref: 6193
+104;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. - Ref: 3685
+105;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. - Ref: 9846
+106;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. - Ref: 8176
+107;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. - Ref: 1341
+108;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. - Ref: 2180
+109;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. - Ref: 6875
+110;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. - Ref: 7836
+111;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. - Ref: 8554
+112;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. - Ref: 9266
+113;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] - Ref: 666
+114;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] - Ref: 5534
+115;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] - Ref: 5671
+116;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] - Ref: 1754
+117;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] - Ref: 1759
+118;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] - Ref: 3532
+119;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] - Ref: 2385
+120;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] - Ref: 1329
+121;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] - Ref: 9489
+122;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] - Ref: 3461
+123;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] - Ref: 8839
+124;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] - Ref: 3813
+125;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] - Ref: 2546
+126;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] - Ref: 1291
+127;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] - Ref: 8817
+128;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] - Ref: 213
+129;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #5886]
+130;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #345]
+131;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #4066]
+132;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #9296]
+133;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #4282]
+134;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3521]
+135;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #4761]
+136;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #3242]
+137;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #1930]
+138;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #9922]
+139;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #3822]
+140;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #9342]
+141;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #5245]
+142;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #8200]
+143;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #5268]
+144;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #1737]
+145;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] [Suivi dossier #2882]
+146;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] [Suivi dossier #9199]
+147;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] [Suivi dossier #7348]
+148;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] [Suivi dossier #9146]
+149;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] [Suivi dossier #3686]
+150;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] [Suivi dossier #991]
+151;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] [Suivi dossier #3900]
+152;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] [Suivi dossier #6526]
+153;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] [Suivi dossier #932]
+154;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] [Suivi dossier #5082]
+155;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] [Suivi dossier #2614]
+156;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] [Suivi dossier #7824]
+157;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] [Suivi dossier #1279]
+158;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] [Suivi dossier #2922]
+159;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] [Suivi dossier #774]
+160;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] [Suivi dossier #5106]
+161;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. - Ref: 9052 [Suivi dossier #3207]
+162;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. - Ref: 4871 [Suivi dossier #716]
+163;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. - Ref: 7199 [Suivi dossier #3961]
+164;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. - Ref: 1382 [Suivi dossier #7659]
+165;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. - Ref: 5315 [Suivi dossier #6410]
+166;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. - Ref: 2427 [Suivi dossier #9074]
+167;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. - Ref: 6193 [Suivi dossier #6139]
+168;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. - Ref: 3685 [Suivi dossier #3474]
+169;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. - Ref: 9846 [Suivi dossier #8953]
+170;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. - Ref: 8176 [Suivi dossier #4345]
+171;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. - Ref: 1341 [Suivi dossier #4865]
+172;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. - Ref: 2180 [Suivi dossier #1293]
+173;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. - Ref: 6875 [Suivi dossier #1870]
+174;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. - Ref: 7836 [Suivi dossier #5472]
+175;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. - Ref: 8554 [Suivi dossier #1749]
+176;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. - Ref: 9266 [Suivi dossier #2329]
+177;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] - Ref: 666 [Suivi dossier #6400]
+178;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] - Ref: 5534 [Suivi dossier #5015]
+179;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] - Ref: 5671 [Suivi dossier #5873]
+180;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] - Ref: 1754 [Suivi dossier #4322]
+181;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] - Ref: 1759 [Suivi dossier #3993]
+182;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] - Ref: 3532 [Suivi dossier #6997]
+183;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] - Ref: 2385 [Suivi dossier #3009]
+184;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] - Ref: 1329 [Suivi dossier #4052]
+185;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] - Ref: 9489 [Suivi dossier #1236]
+186;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] - Ref: 3461 [Suivi dossier #4022]
+187;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] - Ref: 8839 [Suivi dossier #6403]
+188;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] - Ref: 3813 [Suivi dossier #9951]
+189;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] - Ref: 2546 [Suivi dossier #548]
+190;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] - Ref: 1291 [Suivi dossier #2884]
+191;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] - Ref: 8817 [Suivi dossier #2778]
+192;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] - Ref: 213 [Suivi dossier #5238]
+193;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #7855]
+194;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #3562]
+195;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #4244]
+196;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #536]
+197;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #9950]
+198;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #8140]
+199;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #853]
+200;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #9844]
+201;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #6661]
+202;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #3772]
+203;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #8880]
+204;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #3083]
+205;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #8778]
+206;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #4640]
+207;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #6868]
+208;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #420]
+209;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] [Suivi dossier #1495]
+210;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] [Suivi dossier #6217]
+211;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] [Suivi dossier #6602]
+212;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] [Suivi dossier #4356]
+213;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] [Suivi dossier #1976]
+214;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] [Suivi dossier #6814]
+215;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] [Suivi dossier #8141]
+216;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] [Suivi dossier #262]
+217;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] [Suivi dossier #6890]
+218;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] [Suivi dossier #3664]
+219;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] [Suivi dossier #7649]
+220;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] [Suivi dossier #7255]
+221;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] [Suivi dossier #3329]
+222;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] [Suivi dossier #4880]
+223;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] [Suivi dossier #4415]
+224;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] [Suivi dossier #7435]
+225;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. - Ref: 9052 [Suivi dossier #3931]
+226;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. - Ref: 4871 [Suivi dossier #7348]
+227;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. - Ref: 7199 [Suivi dossier #4948]
+228;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. - Ref: 1382 [Suivi dossier #2696]
+229;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. - Ref: 5315 [Suivi dossier #8638]
+230;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. - Ref: 2427 [Suivi dossier #5101]
+231;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. - Ref: 6193 [Suivi dossier #9590]
+232;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. - Ref: 3685 [Suivi dossier #2651]
+233;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. - Ref: 9846 [Suivi dossier #4485]
+234;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. - Ref: 8176 [Suivi dossier #4471]
+235;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. - Ref: 1341 [Suivi dossier #8901]
+236;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. - Ref: 2180 [Suivi dossier #1093]
+237;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. - Ref: 6875 [Suivi dossier #8762]
+238;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. - Ref: 7836 [Suivi dossier #531]
+239;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. - Ref: 8554 [Suivi dossier #6369]
+240;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. - Ref: 9266 [Suivi dossier #253]
+241;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] - Ref: 666 [Suivi dossier #2157]
+242;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] - Ref: 5534 [Suivi dossier #28]
+243;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] - Ref: 5671 [Suivi dossier #3671]
+244;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] - Ref: 1754 [Suivi dossier #8271]
+245;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] - Ref: 1759 [Suivi dossier #341]
+246;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] - Ref: 3532 [Suivi dossier #6892]
+247;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] - Ref: 2385 [Suivi dossier #3438]
+248;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] - Ref: 1329 [Suivi dossier #6515]
+249;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] - Ref: 9489 [Suivi dossier #2261]
+250;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] - Ref: 3461 [Suivi dossier #1761]
+251;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] - Ref: 8839 [Suivi dossier #2024]
+252;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] - Ref: 3813 [Suivi dossier #4834]
+253;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] - Ref: 2546 [Suivi dossier #8102]
+254;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] - Ref: 1291 [Suivi dossier #6006]
+255;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] - Ref: 8817 [Suivi dossier #5727]
+256;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] - Ref: 213 [Suivi dossier #616]
+257;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. - Ref: 5899
+258;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. - Ref: 7649
+259;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. - Ref: 549
+260;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. - Ref: 9796
+261;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. - Ref: 7336
+262;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. - Ref: 7291
+263;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. - Ref: 4446
+264;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. - Ref: 360
+265;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. - Ref: 8464
+266;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. - Ref: 1237
+267;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. - Ref: 796
+268;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. - Ref: 270
+269;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. - Ref: 8961
+270;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. - Ref: 3995
+271;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. - Ref: 3095
+272;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. - Ref: 3488
+273;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] - Ref: 8155
+274;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] - Ref: 311
+275;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] - Ref: 7092
+276;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] - Ref: 4526
+277;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] - Ref: 1357
+278;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] - Ref: 3207
+279;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] - Ref: 1962
+280;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] - Ref: 191
+281;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] - Ref: 5069
+282;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] - Ref: 4771
+283;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] - Ref: 8649
+284;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] - Ref: 8932
+285;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] - Ref: 8713
+286;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] - Ref: 6772
+287;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] - Ref: 7719
+288;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] - Ref: 8279
+289;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. - Ref: 9052 - Ref: 8240
+290;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. - Ref: 4871 - Ref: 6363
+291;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. - Ref: 7199 - Ref: 7097
+292;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. - Ref: 1382 - Ref: 6397
+293;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. - Ref: 5315 - Ref: 693
+294;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. - Ref: 2427 - Ref: 4274
+295;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. - Ref: 6193 - Ref: 9292
+296;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. - Ref: 3685 - Ref: 3640
+297;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. - Ref: 9846 - Ref: 322
+298;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. - Ref: 8176 - Ref: 691
+299;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. - Ref: 1341 - Ref: 2490
+300;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. - Ref: 2180 - Ref: 376
+301;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. - Ref: 6875 - Ref: 4410
+302;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. - Ref: 7836 - Ref: 925
+303;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. - Ref: 8554 - Ref: 1396
+304;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. - Ref: 9266 - Ref: 4205
+305;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] - Ref: 666 - Ref: 6835
+306;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] - Ref: 5534 - Ref: 1564
+307;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] - Ref: 5671 - Ref: 7314
+308;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] - Ref: 1754 - Ref: 1880
+309;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] - Ref: 1759 - Ref: 7459
+310;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] - Ref: 3532 - Ref: 1656
+311;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] - Ref: 2385 - Ref: 5901
+312;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] - Ref: 1329 - Ref: 4538
+313;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] - Ref: 9489 - Ref: 4988
+314;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] - Ref: 3461 - Ref: 1324
+315;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] - Ref: 8839 - Ref: 1659
+316;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] - Ref: 3813 - Ref: 4324
+317;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] - Ref: 2546 - Ref: 6643
+318;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] - Ref: 1291 - Ref: 244
+319;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] - Ref: 8817 - Ref: 1289
+320;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] - Ref: 213 - Ref: 5715
+321;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. - Ref: 4706
+322;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. - Ref: 6389
+323;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. - Ref: 7826
+324;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. - Ref: 9964
+325;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. - Ref: 6342
+326;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. - Ref: 1820
+327;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. - Ref: 72
+328;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. - Ref: 4902
+329;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. - Ref: 4296
+330;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. - Ref: 6773
+331;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. - Ref: 977
+332;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. - Ref: 4566
+333;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. - Ref: 9902
+334;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. - Ref: 5811
+335;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. - Ref: 9349
+336;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. - Ref: 9311
+337;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] - Ref: 8512
+338;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] - Ref: 4625
+339;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] - Ref: 7591
+340;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] - Ref: 4081
+341;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] - Ref: 7633
+342;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] - Ref: 5922
+343;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] - Ref: 6710
+344;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] - Ref: 5784
+345;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] - Ref: 8792
+346;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] - Ref: 6609
+347;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] - Ref: 6671
+348;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] - Ref: 3526
+349;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] - Ref: 7617
+350;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] - Ref: 7509
+351;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] - Ref: 4693
+352;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] - Ref: 937
+353;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. - Ref: 9052 - Ref: 609
+354;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. - Ref: 4871 - Ref: 235
+355;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. - Ref: 7199 - Ref: 9348
+356;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. - Ref: 1382 - Ref: 6035
+357;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. - Ref: 5315 - Ref: 2131
+358;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. - Ref: 2427 - Ref: 2549
+359;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. - Ref: 6193 - Ref: 6354
+360;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. - Ref: 3685 - Ref: 4122
+361;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. - Ref: 9846 - Ref: 1550
+362;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. - Ref: 8176 - Ref: 5384
+363;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. - Ref: 1341 - Ref: 2271
+364;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. - Ref: 2180 - Ref: 5205
+365;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. - Ref: 6875 - Ref: 9211
+366;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. - Ref: 7836 - Ref: 441
+367;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. - Ref: 8554 - Ref: 4571
+368;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. - Ref: 9266 - Ref: 1534
+369;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] - Ref: 666 - Ref: 3959
+370;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] - Ref: 5534 - Ref: 5193
+371;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] - Ref: 5671 - Ref: 4088
+372;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] - Ref: 1754 - Ref: 4859
+373;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] - Ref: 1759 - Ref: 2035
+374;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] - Ref: 3532 - Ref: 5597
+375;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] - Ref: 2385 - Ref: 1880
+376;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] - Ref: 1329 - Ref: 2609
+377;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] - Ref: 9489 - Ref: 7405
+378;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] - Ref: 3461 - Ref: 9200
+379;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] - Ref: 8839 - Ref: 3786
+380;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] - Ref: 3813 - Ref: 1332
+381;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] - Ref: 2546 - Ref: 5301
+382;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] - Ref: 1291 - Ref: 2509
+383;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] - Ref: 8817 - Ref: 6641
+384;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] - Ref: 213 - Ref: 5680
+385;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #5886] - Ref: 8477
+386;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #345] - Ref: 5346
+387;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #4066] - Ref: 1299
+388;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #9296] - Ref: 457
+389;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #4282] - Ref: 8391
+390;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3521] - Ref: 583
+391;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #4761] - Ref: 7743
+392;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #3242] - Ref: 6966
+393;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #1930] - Ref: 1601
+394;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #9922] - Ref: 7107
+395;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #3822] - Ref: 735
+396;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #9342] - Ref: 2355
+397;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #5245] - Ref: 9567
+398;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #8200] - Ref: 773
+399;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #5268] - Ref: 5165
+400;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #1737] - Ref: 3508
+401;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] [Suivi dossier #2882] - Ref: 2043
+402;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] [Suivi dossier #9199] - Ref: 9691
+403;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] [Suivi dossier #7348] - Ref: 2328
+404;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] [Suivi dossier #9146] - Ref: 2568
+405;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] [Suivi dossier #3686] - Ref: 5857
+406;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] [Suivi dossier #991] - Ref: 1579
+407;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] [Suivi dossier #3900] - Ref: 324
+408;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] [Suivi dossier #6526] - Ref: 6884
+409;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] [Suivi dossier #932] - Ref: 3449
+410;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] [Suivi dossier #5082] - Ref: 6595
+411;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] [Suivi dossier #2614] - Ref: 2626
+412;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] [Suivi dossier #7824] - Ref: 3347
+413;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] [Suivi dossier #1279] - Ref: 8858
+414;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] [Suivi dossier #2922] - Ref: 4251
+415;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] [Suivi dossier #774] - Ref: 4680
+416;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] [Suivi dossier #5106] - Ref: 647
+417;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. - Ref: 9052 [Suivi dossier #3207] - Ref: 9196
+418;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. - Ref: 4871 [Suivi dossier #716] - Ref: 4041
+419;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. - Ref: 7199 [Suivi dossier #3961] - Ref: 2614
+420;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. - Ref: 1382 [Suivi dossier #7659] - Ref: 951
+421;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. - Ref: 5315 [Suivi dossier #6410] - Ref: 6913
+422;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. - Ref: 2427 [Suivi dossier #9074] - Ref: 1714
+423;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. - Ref: 6193 [Suivi dossier #6139] - Ref: 7830
+424;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. - Ref: 3685 [Suivi dossier #3474] - Ref: 4009
+425;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. - Ref: 9846 [Suivi dossier #8953] - Ref: 6554
+426;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. - Ref: 8176 [Suivi dossier #4345] - Ref: 745
+427;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. - Ref: 1341 [Suivi dossier #4865] - Ref: 4065
+428;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. - Ref: 2180 [Suivi dossier #1293] - Ref: 8089
+429;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. - Ref: 6875 [Suivi dossier #1870] - Ref: 8249
+430;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. - Ref: 7836 [Suivi dossier #5472] - Ref: 6980
+431;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. - Ref: 8554 [Suivi dossier #1749] - Ref: 152
+432;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. - Ref: 9266 [Suivi dossier #2329] - Ref: 9822
+433;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] - Ref: 666 [Suivi dossier #6400] - Ref: 8655
+434;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] - Ref: 5534 [Suivi dossier #5015] - Ref: 3811
+435;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] - Ref: 5671 [Suivi dossier #5873] - Ref: 3088
+436;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] - Ref: 1754 [Suivi dossier #4322] - Ref: 4009
+437;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] - Ref: 1759 [Suivi dossier #3993] - Ref: 783
+438;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] - Ref: 3532 [Suivi dossier #6997] - Ref: 1887
+439;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] - Ref: 2385 [Suivi dossier #3009] - Ref: 7085
+440;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] - Ref: 1329 [Suivi dossier #4052] - Ref: 9766
+441;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] - Ref: 9489 [Suivi dossier #1236] - Ref: 7575
+442;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] - Ref: 3461 [Suivi dossier #4022] - Ref: 8579
+443;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] - Ref: 8839 [Suivi dossier #6403] - Ref: 171
+444;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] - Ref: 3813 [Suivi dossier #9951] - Ref: 5118
+445;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] - Ref: 2546 [Suivi dossier #548] - Ref: 5077
+446;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] - Ref: 1291 [Suivi dossier #2884] - Ref: 31
+447;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] - Ref: 8817 [Suivi dossier #2778] - Ref: 4926
+448;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] - Ref: 213 [Suivi dossier #5238] - Ref: 4539
+449;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #7855] - Ref: 7914
+450;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #3562] - Ref: 5954
+451;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #4244] - Ref: 6029
+452;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #536] - Ref: 2284
+453;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #9950] - Ref: 3333
+454;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #8140] - Ref: 9813
+455;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #853] - Ref: 9067
+456;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #9844] - Ref: 5895
+457;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #6661] - Ref: 2274
+458;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #3772] - Ref: 3685
+459;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #8880] - Ref: 1603
+460;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #3083] - Ref: 6962
+461;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #8778] - Ref: 2
+462;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #4640] - Ref: 9122
+463;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #6868] - Ref: 5605
+464;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #420] - Ref: 661
+465;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] [Suivi dossier #1495] - Ref: 6491
+466;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] [Suivi dossier #6217] - Ref: 473
+467;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] [Suivi dossier #6602] - Ref: 2890
+468;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] [Suivi dossier #4356] - Ref: 3031
+469;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] [Suivi dossier #1976] - Ref: 6485
+470;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] [Suivi dossier #6814] - Ref: 3332
+471;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] [Suivi dossier #8141] - Ref: 7206
+472;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] [Suivi dossier #262] - Ref: 6036
+473;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] [Suivi dossier #6890] - Ref: 8563
+474;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] [Suivi dossier #3664] - Ref: 4707
+475;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] [Suivi dossier #7649] - Ref: 7848
+476;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] [Suivi dossier #7255] - Ref: 5118
+477;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] [Suivi dossier #3329] - Ref: 2047
+478;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] [Suivi dossier #4880] - Ref: 4879
+479;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] [Suivi dossier #4415] - Ref: 8257
+480;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] [Suivi dossier #7435] - Ref: 6649
+481;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. - Ref: 9052 [Suivi dossier #3931] - Ref: 8474
+482;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. - Ref: 4871 [Suivi dossier #7348] - Ref: 2421
+483;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. - Ref: 7199 [Suivi dossier #4948] - Ref: 6687
+484;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. - Ref: 1382 [Suivi dossier #2696] - Ref: 6170
+485;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. - Ref: 5315 [Suivi dossier #8638] - Ref: 791
+486;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. - Ref: 2427 [Suivi dossier #5101] - Ref: 5445
+487;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. - Ref: 6193 [Suivi dossier #9590] - Ref: 4854
+488;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. - Ref: 3685 [Suivi dossier #2651] - Ref: 7936
+489;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. - Ref: 9846 [Suivi dossier #4485] - Ref: 5119
+490;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. - Ref: 8176 [Suivi dossier #4471] - Ref: 1788
+491;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. - Ref: 1341 [Suivi dossier #8901] - Ref: 3581
+492;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. - Ref: 2180 [Suivi dossier #1093] - Ref: 2541
+493;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. - Ref: 6875 [Suivi dossier #8762] - Ref: 1961
+494;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. - Ref: 7836 [Suivi dossier #531] - Ref: 2186
+495;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. - Ref: 8554 [Suivi dossier #6369] - Ref: 5046
+496;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. - Ref: 9266 [Suivi dossier #253] - Ref: 8674
+497;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] - Ref: 666 [Suivi dossier #2157] - Ref: 8234
+498;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] - Ref: 5534 [Suivi dossier #28] - Ref: 5145
+499;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] - Ref: 5671 [Suivi dossier #3671] - Ref: 1026
+500;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] - Ref: 1754 [Suivi dossier #8271] - Ref: 9696
+501;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] - Ref: 1759 [Suivi dossier #341] - Ref: 5399
+502;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] - Ref: 3532 [Suivi dossier #6892] - Ref: 7911
+503;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] - Ref: 2385 [Suivi dossier #3438] - Ref: 3358
+504;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] - Ref: 1329 [Suivi dossier #6515] - Ref: 3059
+505;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] - Ref: 9489 [Suivi dossier #2261] - Ref: 5218
+506;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] - Ref: 3461 [Suivi dossier #1761] - Ref: 6915
+507;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] - Ref: 8839 [Suivi dossier #2024] - Ref: 8923
+508;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] - Ref: 3813 [Suivi dossier #4834] - Ref: 3871
+509;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] - Ref: 2546 [Suivi dossier #8102] - Ref: 2585
+510;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] - Ref: 1291 [Suivi dossier #6006] - Ref: 1311
+511;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] - Ref: 8817 [Suivi dossier #5727] - Ref: 8801
+512;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] - Ref: 213 [Suivi dossier #616] - Ref: 71
+513;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible.
+514;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous.
+515;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule.
+516;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information.
+517;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide.
+518;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente.
+519;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe.
+520;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel.
+521;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant.
+522;2;Le médecin était très froid et distant. Manque total d'empathie du personnel.
+523;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable.
+524;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa.
+525;1;La propreté des locaux laisse à désirer, poussière partout et douche froide.
+526;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital.
+527;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité.
+528;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée.
+529;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689]
+530;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755]
+531;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709]
+532;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281]
+533;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279]
+534;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551]
+535;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920]
+536;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949]
+537;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983]
+538;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068]
+539;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392]
+540;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755]
+541;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599]
+542;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732]
+543;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865]
+544;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129]
+545;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. - Ref: 9052
+546;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. - Ref: 4871
+547;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. - Ref: 7199
+548;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. - Ref: 1382
+549;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. - Ref: 5315
+550;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. - Ref: 2427
+551;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. - Ref: 6193
+552;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. - Ref: 3685
+553;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. - Ref: 9846
+554;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. - Ref: 8176
+555;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. - Ref: 1341
+556;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. - Ref: 2180
+557;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. - Ref: 6875
+558;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. - Ref: 7836
+559;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. - Ref: 8554
+560;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. - Ref: 9266
+561;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] - Ref: 666
+562;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] - Ref: 5534
+563;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] - Ref: 5671
+564;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] - Ref: 1754
+565;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] - Ref: 1759
+566;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] - Ref: 3532
+567;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] - Ref: 2385
+568;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] - Ref: 1329
+569;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] - Ref: 9489
+570;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] - Ref: 3461
+571;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] - Ref: 8839
+572;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] - Ref: 3813
+573;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] - Ref: 2546
+574;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] - Ref: 1291
+575;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] - Ref: 8817
+576;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] - Ref: 213
+577;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible.
+578;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous.
+579;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule.
+580;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information.
+581;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide.
+582;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente.
+583;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe.
+584;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel.
+585;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant.
+586;2;Le médecin était très froid et distant. Manque total d'empathie du personnel.
+587;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable.
+588;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa.
+589;1;La propreté des locaux laisse à désirer, poussière partout et douche froide.
+590;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital.
+591;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité.
+592;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée.
+593;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689]
+594;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755]
+595;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709]
+596;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281]
+597;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279]
+598;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551]
+599;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920]
+600;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949]
+601;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983]
+602;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068]
+603;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392]
+604;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755]
+605;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599]
+606;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732]
+607;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865]
+608;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129]
+609;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. - Ref: 9052
+610;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. - Ref: 4871
+611;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. - Ref: 7199
+612;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. - Ref: 1382
+613;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. - Ref: 5315
+614;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. - Ref: 2427
+615;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. - Ref: 6193
+616;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. - Ref: 3685
+617;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. - Ref: 9846
+618;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. - Ref: 8176
+619;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. - Ref: 1341
+620;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. - Ref: 2180
+621;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. - Ref: 6875
+622;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. - Ref: 7836
+623;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. - Ref: 8554
+624;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. - Ref: 9266
+625;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] - Ref: 666
+626;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] - Ref: 5534
+627;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] - Ref: 5671
+628;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] - Ref: 1754
+629;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] - Ref: 1759
+630;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] - Ref: 3532
+631;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] - Ref: 2385
+632;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] - Ref: 1329
+633;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] - Ref: 9489
+634;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] - Ref: 3461
+635;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] - Ref: 8839
+636;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] - Ref: 3813
+637;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] - Ref: 2546
+638;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] - Ref: 1291
+639;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] - Ref: 8817
+640;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] - Ref: 213
+641;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #5886]
+642;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #345]
+643;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #4066]
+644;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #9296]
+645;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #4282]
+646;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3521]
+647;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #4761]
+648;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #3242]
+649;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #1930]
+650;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #9922]
+651;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #3822]
+652;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #9342]
+653;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #5245]
+654;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #8200]
+655;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #5268]
+656;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #1737]
+657;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] [Suivi dossier #2882]
+658;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] [Suivi dossier #9199]
+659;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] [Suivi dossier #7348]
+660;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] [Suivi dossier #9146]
+661;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] [Suivi dossier #3686]
+662;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] [Suivi dossier #991]
+663;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] [Suivi dossier #3900]
+664;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] [Suivi dossier #6526]
+665;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] [Suivi dossier #932]
+666;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] [Suivi dossier #5082]
+667;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] [Suivi dossier #2614]
+668;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] [Suivi dossier #7824]
+669;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] [Suivi dossier #1279]
+670;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] [Suivi dossier #2922]
+671;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] [Suivi dossier #774]
+672;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] [Suivi dossier #5106]
+673;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. - Ref: 9052 [Suivi dossier #3207]
+674;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. - Ref: 4871 [Suivi dossier #716]
+675;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. - Ref: 7199 [Suivi dossier #3961]
+676;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. - Ref: 1382 [Suivi dossier #7659]
+677;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. - Ref: 5315 [Suivi dossier #6410]
+678;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. - Ref: 2427 [Suivi dossier #9074]
+679;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. - Ref: 6193 [Suivi dossier #6139]
+680;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. - Ref: 3685 [Suivi dossier #3474]
+681;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. - Ref: 9846 [Suivi dossier #8953]
+682;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. - Ref: 8176 [Suivi dossier #4345]
+683;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. - Ref: 1341 [Suivi dossier #4865]
+684;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. - Ref: 2180 [Suivi dossier #1293]
+685;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. - Ref: 6875 [Suivi dossier #1870]
+686;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. - Ref: 7836 [Suivi dossier #5472]
+687;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. - Ref: 8554 [Suivi dossier #1749]
+688;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. - Ref: 9266 [Suivi dossier #2329]
+689;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] - Ref: 666 [Suivi dossier #6400]
+690;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] - Ref: 5534 [Suivi dossier #5015]
+691;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] - Ref: 5671 [Suivi dossier #5873]
+692;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] - Ref: 1754 [Suivi dossier #4322]
+693;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] - Ref: 1759 [Suivi dossier #3993]
+694;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] - Ref: 3532 [Suivi dossier #6997]
+695;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] - Ref: 2385 [Suivi dossier #3009]
+696;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] - Ref: 1329 [Suivi dossier #4052]
+697;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] - Ref: 9489 [Suivi dossier #1236]
+698;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] - Ref: 3461 [Suivi dossier #4022]
+699;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] - Ref: 8839 [Suivi dossier #6403]
+700;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] - Ref: 3813 [Suivi dossier #9951]
+701;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] - Ref: 2546 [Suivi dossier #548]
+702;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] - Ref: 1291 [Suivi dossier #2884]
+703;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] - Ref: 8817 [Suivi dossier #2778]
+704;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] - Ref: 213 [Suivi dossier #5238]
+705;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #7855]
+706;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #3562]
+707;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #4244]
+708;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #536]
+709;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #9950]
+710;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #8140]
+711;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #853]
+712;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #9844]
+713;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #6661]
+714;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #3772]
+715;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #8880]
+716;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #3083]
+717;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #8778]
+718;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #4640]
+719;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #6868]
+720;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #420]
+721;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] [Suivi dossier #1495]
+722;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] [Suivi dossier #6217]
+723;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] [Suivi dossier #6602]
+724;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] [Suivi dossier #4356]
+725;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] [Suivi dossier #1976]
+726;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] [Suivi dossier #6814]
+727;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] [Suivi dossier #8141]
+728;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] [Suivi dossier #262]
+729;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] [Suivi dossier #6890]
+730;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] [Suivi dossier #3664]
+731;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] [Suivi dossier #7649]
+732;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] [Suivi dossier #7255]
+733;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] [Suivi dossier #3329]
+734;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] [Suivi dossier #4880]
+735;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] [Suivi dossier #4415]
+736;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] [Suivi dossier #7435]
+737;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. - Ref: 9052 [Suivi dossier #3931]
+738;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. - Ref: 4871 [Suivi dossier #7348]
+739;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. - Ref: 7199 [Suivi dossier #4948]
+740;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. - Ref: 1382 [Suivi dossier #2696]
+741;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. - Ref: 5315 [Suivi dossier #8638]
+742;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. - Ref: 2427 [Suivi dossier #5101]
+743;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. - Ref: 6193 [Suivi dossier #9590]
+744;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. - Ref: 3685 [Suivi dossier #2651]
+745;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. - Ref: 9846 [Suivi dossier #4485]
+746;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. - Ref: 8176 [Suivi dossier #4471]
+747;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. - Ref: 1341 [Suivi dossier #8901]
+748;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. - Ref: 2180 [Suivi dossier #1093]
+749;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. - Ref: 6875 [Suivi dossier #8762]
+750;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. - Ref: 7836 [Suivi dossier #531]
+751;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. - Ref: 8554 [Suivi dossier #6369]
+752;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. - Ref: 9266 [Suivi dossier #253]
+753;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] - Ref: 666 [Suivi dossier #2157]
+754;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] - Ref: 5534 [Suivi dossier #28]
+755;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] - Ref: 5671 [Suivi dossier #3671]
+756;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] - Ref: 1754 [Suivi dossier #8271]
+757;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] - Ref: 1759 [Suivi dossier #341]
+758;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] - Ref: 3532 [Suivi dossier #6892]
+759;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] - Ref: 2385 [Suivi dossier #3438]
+760;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] - Ref: 1329 [Suivi dossier #6515]
+761;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] - Ref: 9489 [Suivi dossier #2261]
+762;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] - Ref: 3461 [Suivi dossier #1761]
+763;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] - Ref: 8839 [Suivi dossier #2024]
+764;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] - Ref: 3813 [Suivi dossier #4834]
+765;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] - Ref: 2546 [Suivi dossier #8102]
+766;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] - Ref: 1291 [Suivi dossier #6006]
+767;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] - Ref: 8817 [Suivi dossier #5727]
+768;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] - Ref: 213 [Suivi dossier #616]
+769;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. - Ref: 5899
+770;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. - Ref: 7649
+771;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. - Ref: 549
+772;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. - Ref: 9796
+773;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. - Ref: 7336
+774;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. - Ref: 7291
+775;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. - Ref: 4446
+776;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. - Ref: 360
+777;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. - Ref: 8464
+778;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. - Ref: 1237
+779;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. - Ref: 796
+780;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. - Ref: 270
+781;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. - Ref: 8961
+782;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. - Ref: 3995
+783;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. - Ref: 3095
+784;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. - Ref: 3488
+785;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] - Ref: 8155
+786;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] - Ref: 311
+787;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] - Ref: 7092
+788;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] - Ref: 4526
+789;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] - Ref: 1357
+790;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] - Ref: 3207
+791;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] - Ref: 1962
+792;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] - Ref: 191
+793;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] - Ref: 5069
+794;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] - Ref: 4771
+795;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] - Ref: 8649
+796;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] - Ref: 8932
+797;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] - Ref: 8713
+798;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] - Ref: 6772
+799;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] - Ref: 7719
+800;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] - Ref: 8279
+801;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. - Ref: 9052 - Ref: 8240
+802;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. - Ref: 4871 - Ref: 6363
+803;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. - Ref: 7199 - Ref: 7097
+804;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. - Ref: 1382 - Ref: 6397
+805;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. - Ref: 5315 - Ref: 693
+806;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. - Ref: 2427 - Ref: 4274
+807;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. - Ref: 6193 - Ref: 9292
+808;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. - Ref: 3685 - Ref: 3640
+809;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. - Ref: 9846 - Ref: 322
+810;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. - Ref: 8176 - Ref: 691
+811;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. - Ref: 1341 - Ref: 2490
+812;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. - Ref: 2180 - Ref: 376
+813;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. - Ref: 6875 - Ref: 4410
+814;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. - Ref: 7836 - Ref: 925
+815;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. - Ref: 8554 - Ref: 1396
+816;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. - Ref: 9266 - Ref: 4205
+817;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] - Ref: 666 - Ref: 6835
+818;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] - Ref: 5534 - Ref: 1564
+819;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] - Ref: 5671 - Ref: 7314
+820;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] - Ref: 1754 - Ref: 1880
+821;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] - Ref: 1759 - Ref: 7459
+822;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] - Ref: 3532 - Ref: 1656
+823;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] - Ref: 2385 - Ref: 5901
+824;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] - Ref: 1329 - Ref: 4538
+825;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] - Ref: 9489 - Ref: 4988
+826;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] - Ref: 3461 - Ref: 1324
+827;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] - Ref: 8839 - Ref: 1659
+828;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] - Ref: 3813 - Ref: 4324
+829;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] - Ref: 2546 - Ref: 6643
+830;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] - Ref: 1291 - Ref: 244
+831;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] - Ref: 8817 - Ref: 1289
+832;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] - Ref: 213 - Ref: 5715
+833;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. - Ref: 4706
+834;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. - Ref: 6389
+835;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. - Ref: 7826
+836;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. - Ref: 9964
+837;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. - Ref: 6342
+838;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. - Ref: 1820
+839;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. - Ref: 72
+840;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. - Ref: 4902
+841;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. - Ref: 4296
+842;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. - Ref: 6773
+843;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. - Ref: 977
+844;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. - Ref: 4566
+845;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. - Ref: 9902
+846;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. - Ref: 5811
+847;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. - Ref: 9349
+848;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. - Ref: 9311
+849;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] - Ref: 8512
+850;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] - Ref: 4625
+851;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] - Ref: 7591
+852;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] - Ref: 4081
+853;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] - Ref: 7633
+854;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] - Ref: 5922
+855;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] - Ref: 6710
+856;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] - Ref: 5784
+857;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] - Ref: 8792
+858;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] - Ref: 6609
+859;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] - Ref: 6671
+860;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] - Ref: 3526
+861;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] - Ref: 7617
+862;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] - Ref: 7509
+863;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] - Ref: 4693
+864;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] - Ref: 937
+865;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. - Ref: 9052 - Ref: 609
+866;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. - Ref: 4871 - Ref: 235
+867;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. - Ref: 7199 - Ref: 9348
+868;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. - Ref: 1382 - Ref: 6035
+869;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. - Ref: 5315 - Ref: 2131
+870;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. - Ref: 2427 - Ref: 2549
+871;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. - Ref: 6193 - Ref: 6354
+872;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. - Ref: 3685 - Ref: 4122
+873;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. - Ref: 9846 - Ref: 1550
+874;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. - Ref: 8176 - Ref: 5384
+875;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. - Ref: 1341 - Ref: 2271
+876;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. - Ref: 2180 - Ref: 5205
+877;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. - Ref: 6875 - Ref: 9211
+878;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. - Ref: 7836 - Ref: 441
+879;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. - Ref: 8554 - Ref: 4571
+880;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. - Ref: 9266 - Ref: 1534
+881;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] - Ref: 666 - Ref: 3959
+882;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] - Ref: 5534 - Ref: 5193
+883;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] - Ref: 5671 - Ref: 4088
+884;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] - Ref: 1754 - Ref: 4859
+885;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] - Ref: 1759 - Ref: 2035
+886;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] - Ref: 3532 - Ref: 5597
+887;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] - Ref: 2385 - Ref: 1880
+888;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] - Ref: 1329 - Ref: 2609
+889;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] - Ref: 9489 - Ref: 7405
+890;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] - Ref: 3461 - Ref: 9200
+891;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] - Ref: 8839 - Ref: 3786
+892;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] - Ref: 3813 - Ref: 1332
+893;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] - Ref: 2546 - Ref: 5301
+894;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] - Ref: 1291 - Ref: 2509
+895;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] - Ref: 8817 - Ref: 6641
+896;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] - Ref: 213 - Ref: 5680
+897;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #5886] - Ref: 8477
+898;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #345] - Ref: 5346
+899;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #4066] - Ref: 1299
+900;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #9296] - Ref: 457
+901;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #4282] - Ref: 8391
+902;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3521] - Ref: 583
+903;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #4761] - Ref: 7743
+904;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #3242] - Ref: 6966
+905;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #1930] - Ref: 1601
+906;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #9922] - Ref: 7107
+907;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #3822] - Ref: 735
+908;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #9342] - Ref: 2355
+909;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #5245] - Ref: 9567
+910;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #8200] - Ref: 773
+911;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #5268] - Ref: 5165
+912;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #1737] - Ref: 3508
+913;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] [Suivi dossier #2882] - Ref: 2043
+914;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] [Suivi dossier #9199] - Ref: 9691
+915;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] [Suivi dossier #7348] - Ref: 2328
+916;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] [Suivi dossier #9146] - Ref: 2568
+917;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] [Suivi dossier #3686] - Ref: 5857
+918;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] [Suivi dossier #991] - Ref: 1579
+919;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] [Suivi dossier #3900] - Ref: 324
+920;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] [Suivi dossier #6526] - Ref: 6884
+921;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] [Suivi dossier #932] - Ref: 3449
+922;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] [Suivi dossier #5082] - Ref: 6595
+923;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] [Suivi dossier #2614] - Ref: 2626
+924;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] [Suivi dossier #7824] - Ref: 3347
+925;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] [Suivi dossier #1279] - Ref: 8858
+926;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] [Suivi dossier #2922] - Ref: 4251
+927;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] [Suivi dossier #774] - Ref: 4680
+928;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] [Suivi dossier #5106] - Ref: 647
+929;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. - Ref: 9052 [Suivi dossier #3207] - Ref: 9196
+930;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. - Ref: 4871 [Suivi dossier #716] - Ref: 4041
+931;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. - Ref: 7199 [Suivi dossier #3961] - Ref: 2614
+932;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. - Ref: 1382 [Suivi dossier #7659] - Ref: 951
+933;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. - Ref: 5315 [Suivi dossier #6410] - Ref: 6913
+934;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. - Ref: 2427 [Suivi dossier #9074] - Ref: 1714
+935;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. - Ref: 6193 [Suivi dossier #6139] - Ref: 7830
+936;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. - Ref: 3685 [Suivi dossier #3474] - Ref: 4009
+937;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. - Ref: 9846 [Suivi dossier #8953] - Ref: 6554
+938;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. - Ref: 8176 [Suivi dossier #4345] - Ref: 745
+939;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. - Ref: 1341 [Suivi dossier #4865] - Ref: 4065
+940;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. - Ref: 2180 [Suivi dossier #1293] - Ref: 8089
+941;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. - Ref: 6875 [Suivi dossier #1870] - Ref: 8249
+942;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. - Ref: 7836 [Suivi dossier #5472] - Ref: 6980
+943;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. - Ref: 8554 [Suivi dossier #1749] - Ref: 152
+944;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. - Ref: 9266 [Suivi dossier #2329] - Ref: 9822
+945;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] - Ref: 666 [Suivi dossier #6400] - Ref: 8655
+946;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] - Ref: 5534 [Suivi dossier #5015] - Ref: 3811
+947;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] - Ref: 5671 [Suivi dossier #5873] - Ref: 3088
+948;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] - Ref: 1754 [Suivi dossier #4322] - Ref: 4009
+949;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] - Ref: 1759 [Suivi dossier #3993] - Ref: 783
+950;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] - Ref: 3532 [Suivi dossier #6997] - Ref: 1887
+951;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] - Ref: 2385 [Suivi dossier #3009] - Ref: 7085
+952;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] - Ref: 1329 [Suivi dossier #4052] - Ref: 9766
+953;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] - Ref: 9489 [Suivi dossier #1236] - Ref: 7575
+954;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] - Ref: 3461 [Suivi dossier #4022] - Ref: 8579
+955;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] - Ref: 8839 [Suivi dossier #6403] - Ref: 171
+956;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] - Ref: 3813 [Suivi dossier #9951] - Ref: 5118
+957;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] - Ref: 2546 [Suivi dossier #548] - Ref: 5077
+958;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] - Ref: 1291 [Suivi dossier #2884] - Ref: 31
+959;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] - Ref: 8817 [Suivi dossier #2778] - Ref: 4926
+960;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] - Ref: 213 [Suivi dossier #5238] - Ref: 4539
+961;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #7855] - Ref: 7914
+962;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #3562] - Ref: 5954
+963;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #4244] - Ref: 6029
+964;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #536] - Ref: 2284
+965;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #9950] - Ref: 3333
+966;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #8140] - Ref: 9813
+967;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #853] - Ref: 9067
+968;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #9844] - Ref: 5895
+969;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #6661] - Ref: 2274
+970;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #3772] - Ref: 3685
+971;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #8880] - Ref: 1603
+972;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #3083] - Ref: 6962
+973;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #8778] - Ref: 2
+974;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #4640] - Ref: 9122
+975;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #6868] - Ref: 5605
+976;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #420] - Ref: 661
+977;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] [Suivi dossier #1495] - Ref: 6491
+978;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] [Suivi dossier #6217] - Ref: 473
+979;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] [Suivi dossier #6602] - Ref: 2890
+980;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] [Suivi dossier #4356] - Ref: 3031
+981;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. [Suivi dossier #3279] [Suivi dossier #1976] - Ref: 6485
+982;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. [Suivi dossier #3551] [Suivi dossier #6814] - Ref: 3332
+983;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. [Suivi dossier #7920] [Suivi dossier #8141] - Ref: 7206
+984;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. [Suivi dossier #8949] [Suivi dossier #262] - Ref: 6036
+985;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. [Suivi dossier #983] [Suivi dossier #6890] - Ref: 8563
+986;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. [Suivi dossier #8068] [Suivi dossier #3664] - Ref: 4707
+987;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. [Suivi dossier #7392] [Suivi dossier #7649] - Ref: 7848
+988;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. [Suivi dossier #2755] [Suivi dossier #7255] - Ref: 5118
+989;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. [Suivi dossier #1599] [Suivi dossier #3329] - Ref: 2047
+990;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. [Suivi dossier #9732] [Suivi dossier #4880] - Ref: 4879
+991;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. [Suivi dossier #3865] [Suivi dossier #4415] - Ref: 8257
+992;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. [Suivi dossier #129] [Suivi dossier #7435] - Ref: 6649
+993;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. - Ref: 9052 [Suivi dossier #3931] - Ref: 8474
+994;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. - Ref: 4871 [Suivi dossier #7348] - Ref: 2421
+995;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. - Ref: 7199 [Suivi dossier #4948] - Ref: 6687
+996;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. - Ref: 1382 [Suivi dossier #2696] - Ref: 6170
+997;5;Prise en charge immédiate ! Pas une minute d'attente, service très fluide. - Ref: 5315 [Suivi dossier #8638] - Ref: 791
+998;4;Un peu de retard pour la consultation, mais l'équipe médicale est excellente. - Ref: 2427 [Suivi dossier #5101] - Ref: 5445
+999;5;Les infirmières ont été adorables et le médecin très à l'écoute. Merci à l'équipe. - Ref: 6193 [Suivi dossier #9590] - Ref: 4854
+1000;5;Un personnel soignant au top, d'une gentillesse incroyable et très professionnel. - Ref: 3685 [Suivi dossier #2651] - Ref: 7936
+1001;4;Médecin très compétent, mais l'accueil à l'entrée pourrait être plus souriant. - Ref: 9846 [Suivi dossier #4485] - Ref: 5119
+1002;2;Le médecin était très froid et distant. Manque total d'empathie du personnel. - Ref: 8176 [Suivi dossier #4471] - Ref: 1788
+1003;1;Une infirmière m'a parlé de façon très agressive. Accueil déplorable. - Ref: 1341 [Suivi dossier #8901] - Ref: 3581
+1004;2;La chambre était sale et le repas vraiment pas bon, mais le personnel reste sympa. - Ref: 2180 [Suivi dossier #1093] - Ref: 2541
+1005;1;La propreté des locaux laisse à désirer, poussière partout et douche froide. - Ref: 6875 [Suivi dossier #8762] - Ref: 1961
+1006;5;Très bon accueil, locaux propres, neufs et repas corrects pour un hôpital. - Ref: 7836 [Suivi dossier #531] - Ref: 2186
+1007;3;Repas tiède et chambre bruyante à côté de l'ascenseur, mais soins de qualité. - Ref: 8554 [Suivi dossier #6369] - Ref: 5046
+1008;4;Infirmière au top, très douce. Dommage que la chambre soit si mal isolée. - Ref: 9266 [Suivi dossier #253] - Ref: 8674
+1009;1;Une attente interminable aux urgences aujourd hui, le retard est vraiment inadmissible. [Suivi dossier #8689] - Ref: 666 [Suivi dossier #2157] - Ref: 8234
+1010;1;Le temps d'attente est beaucoup trop long, plus de 3h de retard pour mon rendez-vous. [Suivi dossier #9755] - Ref: 5534 [Suivi dossier #28] - Ref: 5145
+1011;2;Trop d'attente à l'accueil. Les secrétaires sont débordées et le retard s'accumule. [Suivi dossier #2709] - Ref: 5671 [Suivi dossier #3671] - Ref: 1026
+1012;1;Inadmissible, j'ai attendu des heures dans le couloir sans aucune information. [Suivi dossier #4281] - Ref: 1754 [Suivi dossier #8271] - Ref: 9696
